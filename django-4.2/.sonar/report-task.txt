@@ -1,0 +1,6 @@
+projectKey=djangoV4.2
+serverUrl=http://localhost:9000
+serverVersion=25.10.0.114319
+dashboardUrl=http://localhost:9000/dashboard?id=djangoV4.2
+ceTaskId=a4f14302-cc52-4528-8ff7-306b248c02fa
+ceTaskUrl=http://localhost:9000/api/ce/task?id=a4f14302-cc52-4528-8ff7-306b248c02fa
