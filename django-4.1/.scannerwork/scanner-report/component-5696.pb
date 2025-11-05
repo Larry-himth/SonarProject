@@ -1,0 +1,1 @@
+À, 2pyX	hrKtests/migrations/test_migrations_squashed_complex_multi_apps/app1/2_auto.py

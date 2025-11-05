@@ -1,0 +1,1 @@
+ç 2pyXâhr7django/contrib/gis/db/backends/spatialite/operations.py

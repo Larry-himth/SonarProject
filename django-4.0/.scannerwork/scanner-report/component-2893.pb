@@ -1,0 +1,1 @@
+Í 2pyXžhr1django/core/management/commands/showmigrations.py

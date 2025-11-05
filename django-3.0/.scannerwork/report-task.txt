@@ -1,0 +1,6 @@
+projectKey=django-3.0
+serverUrl=http://localhost:9000
+serverVersion=25.10.0.114319
+dashboardUrl=http://localhost:9000/dashboard?id=django-3.0
+ceTaskId=2f49844b-2f07-4dc3-bdaa-c4c8b7489959
+ceTaskUrl=http://localhost:9000/api/ce/task?id=2f49844b-2f07-4dc3-bdaa-c4c8b7489959

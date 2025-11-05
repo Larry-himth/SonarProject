@@ -1,0 +1,1 @@
+ú 2webXhrEdjango/contrib/admin/templates/registration/password_reset_email.html

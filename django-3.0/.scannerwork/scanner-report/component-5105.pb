@@ -1,0 +1,1 @@
+ñ' 2xmlXhr*tests/fixtures_regress/fixtures/pretty.xml

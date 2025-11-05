@@ -1,0 +1,1 @@
+¾ 2pyXŒhrdjango/conf/global_settings.py

@@ -1,0 +1,1 @@
+¥/ 2pyXhrWtests/admin_scripts/custom_templates/project_template/additional_dir/additional_file.py

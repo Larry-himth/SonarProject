@@ -1,0 +1,1 @@
+õ  2pyXÜhrscripts/manage_translations.py

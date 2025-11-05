@@ -1,0 +1,1 @@
+Ö 2pyX×hr3django/core/management/commands/squashmigrations.py

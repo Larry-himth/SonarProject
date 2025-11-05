@@ -1,0 +1,1 @@
+þ 2pyX…hrdjango/views/static.py

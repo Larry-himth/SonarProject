@@ -1,0 +1,1 @@
+Ã# 2pyXÅhr%tests/view_tests/tests/test_static.py

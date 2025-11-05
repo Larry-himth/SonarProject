@@ -1,0 +1,1 @@
+Å 2pyX9hr'django/core/management/commands/test.py

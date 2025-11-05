@@ -1,0 +1,1 @@
+ï 2pyXhr@django/contrib/admin/migrations/0002_logentry_remove_auto_add.py

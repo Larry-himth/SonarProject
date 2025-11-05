@@ -1,0 +1,1 @@
+¥ 2webX7hrDdjango/contrib/admindocs/templates/admin_doc/template_tag_index.html

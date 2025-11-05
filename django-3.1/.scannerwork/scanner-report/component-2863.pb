@@ -1,0 +1,1 @@
+¯ 2pyXEhr-django/core/management/commands/sqlmigrate.py

@@ -1,0 +1,1 @@
+¼* 2pyXhrKtests/migrations/test_migrations_squashed_ref_squashed/app2/1_squashed_2.py

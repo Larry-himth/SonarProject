@@ -1,0 +1,1 @@
+º* 2xmlXhr0tests/fixtures_regress/fixtures/bad_fixture2.xml

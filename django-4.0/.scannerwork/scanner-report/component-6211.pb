@@ -1,0 +1,1 @@
+Ã0 2pyX?hr8tests/template_tests/syntax_tests/test_invalid_string.py

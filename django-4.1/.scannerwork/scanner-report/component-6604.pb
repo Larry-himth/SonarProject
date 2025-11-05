@@ -1,0 +1,1 @@
+Ì3 2pyXhr9tests/urlpatterns_reverse/translations/locale/__init__.py

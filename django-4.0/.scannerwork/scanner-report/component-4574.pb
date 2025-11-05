@@ -1,0 +1,1 @@
+Þ# 2webXhr7tests/auth_tests/templates/registration/logged_out.html

@@ -1,0 +1,1 @@
+À+ 2pyXhrPtests/migrations/migrations_test_apps/alter_fk/author_app/migrations/__init__.py

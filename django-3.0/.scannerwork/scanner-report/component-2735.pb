@@ -1,0 +1,1 @@
+¯ 2pyXÈhr"django/db/backends/sqlite3/base.py

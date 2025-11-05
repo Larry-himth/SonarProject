@@ -1,0 +1,1 @@
+¼. 2pyXDhr tests/admin_views/customadmin.py

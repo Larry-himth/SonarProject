@@ -1,0 +1,1 @@
+ß* 2pyX²hr%tests/migrations/test_autodetector.py

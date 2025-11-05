@@ -1,0 +1,1 @@
+á 2pyXDhr$django/contrib/admin/bin/compress.py

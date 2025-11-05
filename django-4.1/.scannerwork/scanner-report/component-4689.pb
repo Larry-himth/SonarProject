@@ -1,0 +1,1 @@
+Ñ$ 2pyXhrRtests/check_framework/template_test_apps/same_tags_app_1/templatetags/same_tags.py

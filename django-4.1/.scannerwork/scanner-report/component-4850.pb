@@ -1,0 +1,1 @@
+ò% 2pyXªhr(tests/model_inheritance_regress/tests.py

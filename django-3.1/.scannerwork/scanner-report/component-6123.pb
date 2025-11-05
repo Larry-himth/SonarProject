@@ -1,0 +1,1 @@
+ë/ 2pyX=hr2tests/template_tests/filter_tests/test_escapejs.py

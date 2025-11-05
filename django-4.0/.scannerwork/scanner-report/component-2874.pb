@@ -1,0 +1,1 @@
+º 2pyX½hr$django/db/backends/sqlite3/schema.py

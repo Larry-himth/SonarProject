@@ -1,0 +1,1 @@
+š# 2pyX±hr(tests/model_inheritance_regress/tests.py

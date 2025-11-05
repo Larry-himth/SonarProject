@@ -1,0 +1,1 @@
+í 2pyXÓhr"django/core/checks/model_checks.py

@@ -1,0 +1,1 @@
+¿ 2pyX8hrdjango/core/management/sql.py

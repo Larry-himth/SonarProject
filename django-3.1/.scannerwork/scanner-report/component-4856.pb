@@ -1,0 +1,1 @@
+ø% 2pyX–hr%tests/model_fields/test_foreignkey.py

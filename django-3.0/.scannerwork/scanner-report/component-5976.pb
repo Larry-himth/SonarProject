@@ -1,0 +1,1 @@
+Ø. 2webXhr:tests/template_tests/templates/test_incl_tag_use_l10n.html

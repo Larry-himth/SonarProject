@@ -1,0 +1,1 @@
+³ 2pyXhr!django/conf/locale/fa/__init__.py

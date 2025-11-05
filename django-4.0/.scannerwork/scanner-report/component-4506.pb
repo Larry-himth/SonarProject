@@ -1,0 +1,1 @@
+š# 2webX<hr&tests/view_tests/templates/jsi18n.html

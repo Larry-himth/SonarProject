@@ -1,0 +1,1 @@
+Ý/ 2pyX%hr<tests/template_tests/filter_tests/test_truncatechars_html.py

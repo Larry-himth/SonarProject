@@ -1,0 +1,1 @@
+í+ 2pyXhrNtests/admin_scripts/custom_templates/project_template/project_name/settings.py

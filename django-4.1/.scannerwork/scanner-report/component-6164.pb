@@ -1,0 +1,1 @@
+”0 2pyXhr!tests/apps/one_config_app/apps.py

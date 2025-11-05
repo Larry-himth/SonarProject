@@ -1,0 +1,1 @@
+œ) 2pyXhrKtests/migrations/test_migrations_squashed_complex_multi_apps/app2/2_auto.py

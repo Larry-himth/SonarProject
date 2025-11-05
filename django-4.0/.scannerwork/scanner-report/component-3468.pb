@@ -1,0 +1,1 @@
+Œ 2pyXhrdjango/conf/urls/static.py

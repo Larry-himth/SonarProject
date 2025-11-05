@@ -1,0 +1,1 @@
+þ( 2pyXhr;tests/migrations/test_migrations_squashed_complex/4_auto.py

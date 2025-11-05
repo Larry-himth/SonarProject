@@ -1,0 +1,1 @@
+þ 2webXhr+docs/_theme/djangodocs-epub/epub-cover.html

@@ -1,0 +1,1 @@
+â 2pyX4hr#django/contrib/gis/utils/ogrinfo.py

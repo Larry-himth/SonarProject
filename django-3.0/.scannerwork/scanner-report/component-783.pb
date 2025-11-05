@@ -1,0 +1,1 @@
+è 2pyXÜhr4django/contrib/gis/management/commands/ogrinspect.py

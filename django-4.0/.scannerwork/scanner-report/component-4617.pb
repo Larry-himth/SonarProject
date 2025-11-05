@@ -1,0 +1,1 @@
+‰$ 2pyXhrEtests/check_framework/urls/path_compatibility/beginning_with_caret.py

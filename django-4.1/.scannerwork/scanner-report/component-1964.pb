@@ -1,0 +1,1 @@
+¬ 2webXChr=django/contrib/admin/templates/admin/edit_inline/tabular.html

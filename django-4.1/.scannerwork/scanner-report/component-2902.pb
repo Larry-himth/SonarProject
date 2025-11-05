@@ -1,0 +1,1 @@
+Ö 2pyX‚hr4django/core/management/commands/optimizemigration.py

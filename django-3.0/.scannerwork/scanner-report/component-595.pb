@@ -1,0 +1,1 @@
+Ó 2pyXBhr1django/contrib/gis/db/backends/postgis/adapter.py

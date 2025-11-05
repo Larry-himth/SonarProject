@@ -1,0 +1,1 @@
+ç) 2pyXhr?tests/migrations/migrations_test_apps/lookuperror_b/__init__.py

@@ -1,0 +1,1 @@
+ÿ* 2xmlXhr$tests/fixtures/fixtures/fixture2.xml

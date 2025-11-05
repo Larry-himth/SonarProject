@@ -1,0 +1,1 @@
+¾ 2pyXhr/django/contrib/flatpages/migrations/__init__.py

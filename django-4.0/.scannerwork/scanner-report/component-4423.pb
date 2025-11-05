@@ -1,0 +1,1 @@
+Ç" 2pyXhr5tests/bash_completion/management/commands/__init__.py

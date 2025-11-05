@@ -1,0 +1,46 @@
+# ==========================================================
+# SonarQube Configuration for Django 3.0 Analysis
+# ==========================================================
+
+sonar.projectKey=django-3.1
+sonar.projectName=Django 3.1
+sonar.projectVersion=3.1
+
+# ==========================================================
+# Source Code Location
+# ==========================================================
+# Analyze the entire Django source (relative to this file)
+sonar.sources=.
+
+# Exclude tests, migrations, and build/cache directories
+sonar.exclusions=**/.github/**
+
+# ==========================================================
+# Language and Encoding
+# ==========================================================
+sonar.language=py
+sonar.sourceEncoding=UTF-8
+
+# ==========================================================
+# Python Configuration
+# ==========================================================
+# Specify your Python interpreter if needed (optional)
+# sonar.python.version=3.8
+
+# ==========================================================
+# SonarQube Server Settings
+# ==========================================================
+# Update this to your actual SonarQube instance URL
+sonar.host.url=http://localhost:9000
+
+# Replace this token with a valid one from your SonarQube user account
+sonar.token=sqp_bf987e6bca83b8b731a506ecbb5fb36d81c3f516
+
+# ==========================================================
+# Optional and Performance Settings
+# ==========================================================
+# Disable SCM annotation (faster analysis, no git blame)
+sonar.scm.disabled=true
+
+# Enable detailed logs (for troubleshooting)
+sonar.verbose=true

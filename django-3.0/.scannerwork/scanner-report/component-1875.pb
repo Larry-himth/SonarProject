@@ -1,0 +1,1 @@
+Ó 2webX8hrFdjango/contrib/admin/templates/admin/delete_selected_confirmation.html

@@ -1,0 +1,1 @@
+¹ 2webXjhr.django/contrib/admin/templates/admin/base.html

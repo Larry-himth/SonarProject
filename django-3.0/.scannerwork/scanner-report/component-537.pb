@@ -1,0 +1,1 @@
+™ 2xmlXhr3django/contrib/sitemaps/templates/sitemap_index.xml

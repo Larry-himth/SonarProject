@@ -1,0 +1,1 @@
+û 2webX=hrEdjango/contrib/admin/templates/registration/password_change_form.html

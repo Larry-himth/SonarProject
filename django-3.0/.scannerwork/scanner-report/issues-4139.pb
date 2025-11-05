@@ -1,0 +1,8 @@
+M
+pythonS53322Using http protocol is insecure. Use https instead2DD /B
+pythonS5603%Remove this unused class declaration.2
+¼¼ |
+pythonS117`Rename this local variable "ForeignReferent" to match the regular expression ^[_a-z][a-z0-9_]*$.2
+êê z
+pythonS117^Rename this local variable "LocalReferent" to match the regular expression ^[_a-z][a-z0-9_]*$.2
+ää 

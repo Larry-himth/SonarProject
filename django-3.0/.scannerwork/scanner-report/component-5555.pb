@@ -1,0 +1,1 @@
+³+ 2pyX‰hr"tests/admin_utils/test_logentry.py

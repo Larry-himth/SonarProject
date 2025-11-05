@@ -1,0 +1,1 @@
+­/ 2pyXhr=tests/admin_scripts/custom_templates/app_template/__init__.py

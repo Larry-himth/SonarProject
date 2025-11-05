@@ -1,0 +1,1 @@
+Î 2pyXhr,django/core/checks/compatibility/__init__.py

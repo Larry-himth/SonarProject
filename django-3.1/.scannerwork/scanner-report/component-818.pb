@@ -1,0 +1,1 @@
+² 2pyX†hr4django/contrib/gis/management/commands/ogrinspect.py

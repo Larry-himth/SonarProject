@@ -1,0 +1,1 @@
+–- 2webXhr'tests/templates/custom_admin/index.html

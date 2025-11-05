@@ -1,0 +1,1 @@
+º* 2pyXhrGtests/migrations/test_migrations_squashed_ref_squashed/app2/__init__.py

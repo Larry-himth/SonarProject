@@ -1,0 +1,1 @@
+¦ 2pyX4hrdjango/template/loaders/base.py

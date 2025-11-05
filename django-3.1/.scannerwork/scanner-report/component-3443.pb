@@ -1,0 +1,1 @@
+ó 2pyX¢hrdjango/utils/functional.py

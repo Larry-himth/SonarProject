@@ -1,0 +1,1 @@
+‰, 2pyXïhr%tests/migrations/test_autodetector.py

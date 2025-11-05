@@ -1,0 +1,1 @@
+Ú 2pyXÄhr2django/core/management/commands/compilemessages.py

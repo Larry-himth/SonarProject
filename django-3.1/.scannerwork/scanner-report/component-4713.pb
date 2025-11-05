@@ -1,0 +1,1 @@
+é$ 2jsX1hr!tests/i18n/commands/javascript.js

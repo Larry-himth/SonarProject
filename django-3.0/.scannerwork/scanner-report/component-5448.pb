@@ -1,0 +1,1 @@
+È* 2webXhr*tests/templates/views/urlarticle_form.html

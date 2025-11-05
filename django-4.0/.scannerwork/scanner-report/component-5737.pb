@@ -1,0 +1,1 @@
+é, 2webXhr*tests/handlers/templates/test_handler.html

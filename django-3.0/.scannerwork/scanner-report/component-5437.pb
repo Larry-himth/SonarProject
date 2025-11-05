@@ -1,0 +1,1 @@
+½* 2webXhr'tests/templates/custom_admin/login.html

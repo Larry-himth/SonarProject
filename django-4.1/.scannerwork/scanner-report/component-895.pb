@@ -1,0 +1,1 @@
+ÿ 2pyXëhr django/contrib/gis/gdal/layer.py

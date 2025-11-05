@@ -1,0 +1,1 @@
+Œ( 2pyXìhrtests/generic_views/urls.py

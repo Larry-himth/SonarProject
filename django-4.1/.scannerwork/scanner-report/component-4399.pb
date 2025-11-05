@@ -1,0 +1,1 @@
+¯" 2pyXxhr)tests/foreign_object/models/empty_join.py

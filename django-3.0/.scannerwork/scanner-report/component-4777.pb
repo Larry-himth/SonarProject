@@ -1,0 +1,1 @@
+©% 2pyX9hr$tests/generic_inline_admin/models.py

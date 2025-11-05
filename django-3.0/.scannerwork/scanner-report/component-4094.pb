@@ -1,0 +1,1 @@
+þ 2pyXmhr%tests/foreign_object/models/person.py

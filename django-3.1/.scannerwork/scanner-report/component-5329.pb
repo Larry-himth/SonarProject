@@ -1,0 +1,1 @@
+Ñ) 2pyX!hr?tests/migrations/test_migrations_squashed/0001_squashed_0002.py

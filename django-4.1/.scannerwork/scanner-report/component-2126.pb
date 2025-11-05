@@ -1,0 +1,1 @@
+Î 2pyXËhrdjango/contrib/admin/options.py

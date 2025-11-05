@@ -1,0 +1,1 @@
+Æ# 2pyX'hr$tests/db_functions/text/test_trim.py

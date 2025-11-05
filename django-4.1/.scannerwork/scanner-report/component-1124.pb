@@ -1,0 +1,1 @@
+ä 2webXOhr>django/contrib/admindocs/templates/admin_doc/model_detail.html

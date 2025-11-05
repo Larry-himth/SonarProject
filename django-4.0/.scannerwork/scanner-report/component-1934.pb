@@ -1,0 +1,1 @@
+Ž 2pyXÕhr/django/contrib/admin/templatetags/admin_list.py

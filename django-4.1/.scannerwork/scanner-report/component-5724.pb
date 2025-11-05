@@ -1,0 +1,1 @@
+Ü, 2pyXhr?tests/migrations/test_migrations_squashed_erroneous/__init__.py

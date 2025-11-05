@@ -1,0 +1,1 @@
+Ç& 2webXhr(tests/i18n/patterns/templates/dummy.html

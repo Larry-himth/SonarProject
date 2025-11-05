@@ -1,0 +1,1 @@
+à# 2webXhrCtests/auth_tests/templates/registration/password_reset_confirm.html

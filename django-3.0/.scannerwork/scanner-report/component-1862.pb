@@ -1,0 +1,1 @@
+Æ 2webXShr5django/contrib/admin/templates/admin/change_list.html

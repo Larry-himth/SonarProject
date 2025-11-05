@@ -1,0 +1,1 @@
+š 2pyX«hrdjango/views/generic/detail.py

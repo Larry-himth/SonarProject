@@ -1,0 +1,1 @@
+Ð# 2pyXÍ	hr1tests/db_functions/datetime/test_extract_trunc.py

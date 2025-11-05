@@ -1,0 +1,1 @@
+Í 2pyXÓhrdjango/utils/functional.py

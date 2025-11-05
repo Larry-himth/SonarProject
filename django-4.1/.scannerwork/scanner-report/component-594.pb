@@ -1,0 +1,1 @@
+Ò 2pyXühr?django/contrib/staticfiles/management/commands/collectstatic.py

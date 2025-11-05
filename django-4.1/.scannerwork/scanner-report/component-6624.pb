@@ -1,0 +1,1 @@
+à3 2pyXXhr!tests/admin_custom_urls/models.py

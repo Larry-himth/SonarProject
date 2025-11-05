@@ -1,0 +1,1 @@
+å( 2pyXhrNtests/migrations/migrations_test_apps/alter_fk/book_app/migrations/__init__.py

@@ -1,0 +1,1 @@
+Ï 2pyXhr+django/core/management/commands/__init__.py

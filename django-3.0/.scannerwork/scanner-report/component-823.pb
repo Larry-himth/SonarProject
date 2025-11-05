@@ -1,0 +1,1 @@
+· 2webXhr4django/contrib/gis/templates/gis/openlayers-osm.html

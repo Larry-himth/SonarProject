@@ -1,0 +1,1 @@
+ð+ 2webXhr(tests/templates/custom_admin/logout.html

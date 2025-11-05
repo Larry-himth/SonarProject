@@ -1,0 +1,1 @@
+Ë 2pyX—hr!django/core/files/uploadedfile.py

@@ -1,0 +1,1 @@
+Ÿ 2pyX—hrdjango/contrib/admin/models.py

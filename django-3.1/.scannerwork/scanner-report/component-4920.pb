@@ -1,0 +1,1 @@
+¸& 2cssXhr,tests/staticfiles_tests/project/loop/bar.css

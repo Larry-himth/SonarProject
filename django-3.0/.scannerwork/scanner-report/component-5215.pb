@@ -1,0 +1,1 @@
+ß( 2pyXhrJtests/migrations/migrations_test_apps/lookuperror_c/migrations/__init__.py

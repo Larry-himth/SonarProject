@@ -1,0 +1,1 @@
+Â 2pyXhr!django/conf/locale/uk/__init__.py

@@ -1,0 +1,1 @@
+Ş! 2pyXhr%tests/admin_inlines/test_templates.py

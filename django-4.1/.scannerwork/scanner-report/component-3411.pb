@@ -1,0 +1,1 @@
+Ó 2pyX!hr django/conf/locale/ky/formats.py

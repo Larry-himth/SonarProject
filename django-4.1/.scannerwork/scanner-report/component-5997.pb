@@ -1,0 +1,1 @@
+í. 2pyXÁhr"tests/admin_utils/test_logentry.py

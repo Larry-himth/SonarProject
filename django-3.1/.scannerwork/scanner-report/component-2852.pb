@@ -1,0 +1,1 @@
+¤ 2pyX’hr"django/core/management/__init__.py

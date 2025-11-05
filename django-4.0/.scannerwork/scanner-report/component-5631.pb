@@ -1,0 +1,1 @@
+ÿ+ 2pyXhr<tests/migrations/faulty_migrations/namespace/foo/__init__.py

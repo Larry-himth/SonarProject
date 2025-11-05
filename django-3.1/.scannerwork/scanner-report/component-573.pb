@@ -1,0 +1,1 @@
+½ 2pyX,hr<django/contrib/staticfiles/management/commands/findstatic.py

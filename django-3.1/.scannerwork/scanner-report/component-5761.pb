@@ -1,0 +1,1 @@
+- 2pyXŠhr%tests/admin_views/test_nav_sidebar.py

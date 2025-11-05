@@ -1,0 +1,1 @@
+þ* 2xmlXhr3tests/fixtures_regress/fixtures/nk-inheritance2.xml

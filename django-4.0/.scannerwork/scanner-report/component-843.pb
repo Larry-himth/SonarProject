@@ -1,0 +1,1 @@
+Ë 2pyXhr3django/contrib/gis/management/commands/inspectdb.py

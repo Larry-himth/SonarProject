@@ -1,0 +1,1 @@
+Ø 2pyX¦hr3django/contrib/gis/db/backends/spatialite/schema.py

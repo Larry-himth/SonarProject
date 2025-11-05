@@ -1,0 +1,1 @@
+æ- 2webXhr6tests/templates/custom_admin/password_change_form.html

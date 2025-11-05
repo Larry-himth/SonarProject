@@ -1,0 +1,1 @@
+. 2pyXhr9tests/backends/base/app_unmigrated/migrations/__init__.py

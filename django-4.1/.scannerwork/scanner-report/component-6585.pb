@@ -1,0 +1,1 @@
+¹3 2pyXXhr+tests/urlpatterns_reverse/namespace_urls.py

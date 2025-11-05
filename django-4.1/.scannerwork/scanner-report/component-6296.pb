@@ -1,0 +1,1 @@
+˜1 2pyXJhrEtests/template_tests/syntax_tests/i18n/test_get_language_info_list.py

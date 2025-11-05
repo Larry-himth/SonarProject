@@ -1,0 +1,1 @@
+Î/ 2pyXhr5tests/apps/explicit_default_config_empty_apps/apps.py

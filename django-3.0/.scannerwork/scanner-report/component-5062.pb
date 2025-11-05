@@ -1,0 +1,1 @@
+Æ' 2pyXhr#tests/urlpatterns/test_resolvers.py

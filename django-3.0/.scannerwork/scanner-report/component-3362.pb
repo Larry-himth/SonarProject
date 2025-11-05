@@ -1,0 +1,1 @@
+¢ 2pyXÚhrdjango/views/generic/base.py

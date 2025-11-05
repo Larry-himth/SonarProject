@@ -1,0 +1,1 @@
+í 2pyX¼hrdjango/views/i18n.py

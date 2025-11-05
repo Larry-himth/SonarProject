@@ -1,0 +1,1 @@
+¿& 2pyXhr1tests/staticfiles_tests/apps/no_label/__init__.py

@@ -1,0 +1,1 @@
+¢ 2webXhr8django/contrib/admin/templates/admin/popup_response.html

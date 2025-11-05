@@ -1,0 +1,1 @@
+š 2cssXhr?docs/_theme/djangodocs/static/fontawesome/css/fa-brands.min.css

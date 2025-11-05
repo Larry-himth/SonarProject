@@ -1,0 +1,1 @@
+Â 2webXLhr=django/contrib/admin/templates/admin/edit_inline/tabular.html

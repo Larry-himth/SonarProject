@@ -1,0 +1,1 @@
+Õ. 2webXhr;tests/template_tests/templates/ssi include with spaces.html

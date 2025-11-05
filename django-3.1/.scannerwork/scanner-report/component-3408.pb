@@ -1,0 +1,1 @@
+Ð 2pyX¨hrdjango/templatetags/static.py

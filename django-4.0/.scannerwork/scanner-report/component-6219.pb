@@ -1,0 +1,1 @@
+Ë0 2pyXhr2tests/template_tests/syntax_tests/i18n/__init__.py

@@ -1,0 +1,1 @@
+®/ 2pyXhrAtests/contenttypes_tests/operations_migrations/0002_rename_foo.py

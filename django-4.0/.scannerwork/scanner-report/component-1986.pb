@@ -1,0 +1,1 @@
+Â 2webXhr5django/contrib/admin/templates/admin/search_form.html

@@ -1,0 +1,1 @@
+à 2pyXhr0django/contrib/gis/db/backends/mysql/__init__.py

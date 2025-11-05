@@ -1,0 +1,1 @@
+™( 2pyXhr2tests/staticfiles_tests/apps/staticfiles_config.py

@@ -1,0 +1,2 @@
+Ì/ 2pyX
+hr/tests/apps/namespace_package_base/nsapp/apps.py

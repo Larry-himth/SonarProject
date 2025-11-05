@@ -1,0 +1,1 @@
+Ã/ 2pyXhr@tests/admin_scripts/app_waiting_migration/migrations/__init__.py

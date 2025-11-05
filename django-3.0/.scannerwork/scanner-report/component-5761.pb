@@ -1,0 +1,1 @@
+- 2webXhr>tests/syndication_tests/templates/syndication/description.html

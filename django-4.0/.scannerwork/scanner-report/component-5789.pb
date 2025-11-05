@@ -1,0 +1,1 @@
+ù- 2webXhr5tests/templates/custom_admin/delete_confirmation.html

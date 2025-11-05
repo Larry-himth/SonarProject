@@ -1,0 +1,1 @@
+ž- 2webXhr>tests/templates/custom_admin/delete_selected_confirmation.html

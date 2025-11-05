@@ -1,0 +1,1 @@
+Ç, 2pyXhr4tests/migrations/test_migrations_bad_pyc/__init__.py

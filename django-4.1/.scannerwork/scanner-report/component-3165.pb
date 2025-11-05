@@ -1,0 +1,1 @@
+Ý 2pyXhr!django/conf/locale/tg/__init__.py

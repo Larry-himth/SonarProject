@@ -1,0 +1,1 @@
+ª& 2pyXhr0tests/i18n/project_dir/app_no_locale/__init__.py

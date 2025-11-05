@@ -1,0 +1,1 @@
+±' 2pyXhr,tests/proxy_model_inheritance/app2/models.py

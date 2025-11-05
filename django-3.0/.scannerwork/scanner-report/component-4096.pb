@@ -1,0 +1,1 @@
+€  2pyXshr)tests/foreign_object/models/empty_join.py

@@ -1,0 +1,1 @@
+À 2webXhr0django/contrib/admin/templates/admin/filter.html

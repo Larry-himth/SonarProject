@@ -1,0 +1,1 @@
+ê 2webX<hr<django/contrib/admindocs/templates/admin_doc/view_index.html

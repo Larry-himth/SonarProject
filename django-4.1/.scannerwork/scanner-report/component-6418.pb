@@ -1,0 +1,1 @@
+’2 2pyX4hr6tests/template_tests/filter_tests/test_stringformat.py

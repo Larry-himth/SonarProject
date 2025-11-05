@@ -1,0 +1,1 @@
+Ç( 2pyXhr^tests/migrations/migrations_test_apps/conflicting_app_with_dependencies/migrations/__init__.py

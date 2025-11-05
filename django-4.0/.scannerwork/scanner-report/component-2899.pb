@@ -1,0 +1,1 @@
+Ó 2pyX©hr2django/core/management/commands/compilemessages.py

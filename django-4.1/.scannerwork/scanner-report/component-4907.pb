@@ -1,0 +1,1 @@
+«& 2jsXhr0tests/i18n/commands/static/javascript_ignored.js

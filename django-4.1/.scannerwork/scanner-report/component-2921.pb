@@ -1,0 +1,1 @@
+é 2pyXúhr,django/core/management/commands/inspectdb.py

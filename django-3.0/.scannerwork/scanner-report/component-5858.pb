@@ -1,0 +1,1 @@
+â- 2pyXHhr0tests/template_tests/syntax_tests/test_static.py

@@ -1,0 +1,1 @@
+È- 2pyX,hr@tests/template_tests/syntax_tests/i18n/test_get_language_info.py

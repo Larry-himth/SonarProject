@@ -1,0 +1,1 @@
+è# 2pyX§hrtests/admin_widgets/models.py

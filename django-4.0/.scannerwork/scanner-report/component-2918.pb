@@ -1,0 +1,1 @@
+æ 2pyXåhr#django/core/management/templates.py

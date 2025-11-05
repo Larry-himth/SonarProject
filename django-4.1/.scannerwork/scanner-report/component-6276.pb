@@ -1,0 +1,1 @@
+„1 2pyX9hr$tests/template_tests/test_smartif.py

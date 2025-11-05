@@ -1,0 +1,1 @@
+ 2webXhr3django/contrib/admin/templates/admin/app_index.html

@@ -1,0 +1,1 @@
+Œ 2webXhr4django/contrib/admin/templates/admin/pagination.html

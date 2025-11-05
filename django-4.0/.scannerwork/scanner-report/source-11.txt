@@ -1,0 +1,11 @@
+sonar.projectKey=django-4.0
+sonar.projectName=Django 4.0
+sonar.projectVersion=4.0
+sonar.project.branch=main
+sonar.sources=.
+sonar.language=py
+sonar.sourceEncoding=UTF-8
+sonar.host.url=http://localhost:9000
+sonar.token=sqp_48436997b94d6ecba80f9b3b9a812a5be0b2918d
+sonar.scm.disabled=true
+sonar.verbose=true

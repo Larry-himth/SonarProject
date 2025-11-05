@@ -1,0 +1,1 @@
+‡ 2pyX2hr django/conf/locale/eo/formats.py

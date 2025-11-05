@@ -1,0 +1,1 @@
+§/ 2pyXhrQtests/admin_scripts/custom_templates/project_template/additional_dir/localized.py

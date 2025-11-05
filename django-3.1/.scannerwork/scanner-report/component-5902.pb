@@ -1,0 +1,1 @@
+. 2pyXÂhrtests/runtests.py

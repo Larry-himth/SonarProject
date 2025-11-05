@@ -1,0 +1,1 @@
+µ$ 2xmlXhr2tests/fixtures_model_package/fixtures/fixture2.xml

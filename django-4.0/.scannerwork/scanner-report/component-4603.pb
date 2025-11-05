@@ -1,0 +1,1 @@
+û# 2pyXVhrtests/select_related/models.py

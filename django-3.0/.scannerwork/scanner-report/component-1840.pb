@@ -1,0 +1,1 @@
+° 2webXhrDdjango/contrib/admin/templates/registration/password_reset_done.html

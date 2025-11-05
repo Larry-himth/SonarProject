@@ -1,0 +1,1 @@
+1 2pyX>hr+tests/urlpatterns_reverse/namespace_urls.py

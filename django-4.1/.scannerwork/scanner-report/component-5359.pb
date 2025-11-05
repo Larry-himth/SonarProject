@@ -1,0 +1,1 @@
+ï) 2pyXührtests/generic_views/urls.py

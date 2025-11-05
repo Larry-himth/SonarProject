@@ -1,0 +1,1 @@
+”# 2pyX&hrtests/csrf_tests/views.py

@@ -1,0 +1,1 @@
+¤ 2webXhrHdjango/contrib/admin/templates/admin/includes/object_delete_summary.html

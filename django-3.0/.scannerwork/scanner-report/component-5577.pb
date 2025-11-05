@@ -1,0 +1,1 @@
+É+ 2pyX hr0tests/admin_views/custom_has_permission_admin.py

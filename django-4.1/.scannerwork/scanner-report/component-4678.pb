@@ -1,0 +1,1 @@
+Æ$ 2pyXhrGtests/check_framework/template_test_apps/different_tags_app/__init__.py

@@ -1,0 +1,1 @@
+Î& 2pyX)hr)tests/settings_tests/test_file_charset.py

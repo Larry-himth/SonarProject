@@ -1,0 +1,1 @@
+Æ. 2webXhrFtests/admin_views/templates/admin/admin_views/article/search_form.html

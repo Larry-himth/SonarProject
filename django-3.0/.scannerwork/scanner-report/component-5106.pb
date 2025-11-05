@@ -1,0 +1,1 @@
+ò' 2xmlXhr6tests/fixtures_regress/fixtures/sequence_extra_xml.xml

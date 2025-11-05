@@ -1,0 +1,1 @@
+ü& 2webXhr6tests/generic_views/templates/generic_views/about.html

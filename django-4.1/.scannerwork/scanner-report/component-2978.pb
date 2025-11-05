@@ -1,0 +1,1 @@
+¢ 2pyX½hr'django/core/cache/backends/memcached.py

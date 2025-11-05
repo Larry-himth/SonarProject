@@ -1,0 +1,1 @@
+½% 2pyXhr&tests/import_error_package/__init__.py

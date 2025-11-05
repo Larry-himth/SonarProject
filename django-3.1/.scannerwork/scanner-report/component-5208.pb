@@ -1,0 +1,1 @@
+Ø( 2pyXhr+tests/app_loading/not_installed/__init__.py

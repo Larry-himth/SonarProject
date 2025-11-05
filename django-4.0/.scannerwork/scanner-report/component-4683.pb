@@ -1,0 +1,1 @@
+Ë$ 2pyXChr(tests/db_functions/text/test_strindex.py

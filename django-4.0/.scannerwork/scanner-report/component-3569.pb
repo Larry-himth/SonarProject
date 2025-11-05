@@ -1,0 +1,1 @@
+ñ 2webXShr)django/views/templates/technical_404.html

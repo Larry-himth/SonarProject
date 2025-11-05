@@ -1,0 +1,1 @@
+‘ 2webXhr4django/forms/templates/django/forms/widgets/url.html

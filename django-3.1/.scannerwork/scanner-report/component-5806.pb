@@ -1,0 +1,1 @@
+®- 2pyX	hr;tests/admin_scripts/another_app_waiting_migration/models.py

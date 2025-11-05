@@ -1,0 +1,1 @@
+¿" 2pyX¾hr tests/model_inheritance/tests.py

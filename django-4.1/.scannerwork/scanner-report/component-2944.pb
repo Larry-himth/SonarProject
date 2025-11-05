@@ -1,0 +1,1 @@
+€ 2pyXChr!django/core/checks/translation.py

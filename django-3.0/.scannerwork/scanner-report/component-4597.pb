@@ -1,0 +1,1 @@
+õ# 2pyXhr.tests/i18n/project_dir/app_no_locale/models.py

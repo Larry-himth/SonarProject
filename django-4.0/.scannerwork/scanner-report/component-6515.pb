@@ -1,0 +1,1 @@
+ó2 2pyXPhr!tests/urlpatterns_reverse/urls.py

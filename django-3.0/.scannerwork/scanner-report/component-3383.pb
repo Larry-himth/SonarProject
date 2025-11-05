@@ -1,0 +1,1 @@
+· 2pyXhrdjango/bin/django-admin.py

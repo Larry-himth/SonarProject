@@ -1,0 +1,1 @@
+¾/ 2pyXhr.tests/apps/two_default_configs_app/__init__.py

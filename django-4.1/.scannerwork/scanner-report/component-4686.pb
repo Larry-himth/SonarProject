@@ -1,0 +1,1 @@
+Î$ 2pyXhr@tests/check_framework/template_test_apps/same_tags_app_2/apps.py

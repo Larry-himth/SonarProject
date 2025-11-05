@@ -1,0 +1,1 @@
+£ 2pyXˆhrdjango/views/static.py

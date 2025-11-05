@@ -1,0 +1,1 @@
+¦ 2pyX0hr!django/middleware/clickjacking.py

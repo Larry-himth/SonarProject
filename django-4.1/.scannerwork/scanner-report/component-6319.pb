@@ -1,0 +1,1 @@
+¯1 2pyX{hr0tests/template_tests/syntax_tests/test_static.py

@@ -1,0 +1,1 @@
+è 2pyX‰hr+django/db/backends/postgresql/operations.py

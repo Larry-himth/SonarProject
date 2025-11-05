@@ -1,0 +1,1 @@
+ò) 2pyXÞhr"tests/generic_views/test_detail.py

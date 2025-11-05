@@ -1,0 +1,1 @@
+ù 2pyX=hr"django/db/backends/mysql/client.py

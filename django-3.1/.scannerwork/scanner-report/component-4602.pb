@@ -1,0 +1,1 @@
+ú# 2xmlXhr1tests/sitemaps_tests/templates/custom_sitemap.xml

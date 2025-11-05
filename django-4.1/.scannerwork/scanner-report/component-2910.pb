@@ -1,0 +1,1 @@
+Þ 2pyX/hr0django/core/management/commands/sendtestemail.py

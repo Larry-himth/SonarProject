@@ -1,0 +1,1 @@
+Ê$ 2pyXhr4tests/check_framework/template_test_apps/__init__.py

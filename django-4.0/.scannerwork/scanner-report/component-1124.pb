@@ -1,0 +1,1 @@
+ä 2webXhrAdjango/contrib/admindocs/templates/admin_doc/template_detail.html

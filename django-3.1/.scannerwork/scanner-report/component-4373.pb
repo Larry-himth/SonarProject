@@ -1,0 +1,1 @@
+•" 2webXhr5tests/view_tests/templates/jsi18n-multi-catalogs.html

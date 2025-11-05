@@ -1,0 +1,1 @@
+Ÿ% 2webXhr0tests/i18n/sampleproject/templates/percents.html

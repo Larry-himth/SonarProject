@@ -1,0 +1,1 @@
+– 2webXhr7django/contrib/admin/templates/admin/invalid_setup.html
