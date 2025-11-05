@@ -1,0 +1,1 @@
+² 2pyXhr django/conf/locale/bg/formats.py

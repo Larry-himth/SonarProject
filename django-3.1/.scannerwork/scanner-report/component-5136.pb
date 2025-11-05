@@ -1,0 +1,1 @@
+( 2pyXŞhr tests/generic_views/test_base.py

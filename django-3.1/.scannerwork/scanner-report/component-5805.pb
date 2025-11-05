@@ -1,0 +1,1 @@
+­- 2pyX(hr+tests/admin_scripts/test_django_admin_py.py

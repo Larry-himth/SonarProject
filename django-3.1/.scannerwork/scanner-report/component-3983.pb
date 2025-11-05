@@ -1,0 +1,1 @@
+è 2cssXèhr,docs/_theme/djangodocs/static/djangodocs.css

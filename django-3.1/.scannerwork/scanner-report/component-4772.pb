@@ -1,0 +1,1 @@
+¤% 2pyXîhrtests/i18n/test_compilation.py

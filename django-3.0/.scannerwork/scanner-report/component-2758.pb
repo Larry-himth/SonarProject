@@ -1,0 +1,1 @@
+Æ 2pyX”hr1django/core/management/commands/showmigrations.py

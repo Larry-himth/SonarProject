@@ -1,0 +1,1 @@
+¡ 2pyXHhr$django/db/backends/mysql/compiler.py

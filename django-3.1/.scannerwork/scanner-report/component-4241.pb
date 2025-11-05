@@ -1,0 +1,1 @@
+‘! 2pyX&hr(tests/foreign_object/models/customers.py

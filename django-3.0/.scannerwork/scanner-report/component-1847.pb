@@ -1,0 +1,1 @@
+· 2webXWhr/django/contrib/admin/templates/admin/index.html

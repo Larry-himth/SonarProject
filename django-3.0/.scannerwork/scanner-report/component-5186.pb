@@ -1,0 +1,1 @@
+Â( 2pyXhrDtests/migrations/migrations_test_apps/with_package_model/__init__.py

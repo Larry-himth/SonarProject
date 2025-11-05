@@ -1,0 +1,1 @@
+ð% 2pyXÐhr)tests/model_inheritance_regress/models.py

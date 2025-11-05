@@ -1,0 +1,1 @@
+Ì- 2pyXhrCtests/template_tests/syntax_tests/i18n/test_get_current_language.py

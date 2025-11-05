@@ -1,0 +1,1 @@
+Å 2webXhrBdjango/contrib/admin/templates/admin/change_list_object_tools.html

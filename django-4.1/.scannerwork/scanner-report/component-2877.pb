@@ -1,0 +1,1 @@
+½ 2pyX·hr+django/db/backends/sqlite3/introspection.py

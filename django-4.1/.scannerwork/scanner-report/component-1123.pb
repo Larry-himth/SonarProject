@@ -1,0 +1,1 @@
+ã 2webX#hr7django/contrib/admindocs/templates/admin_doc/index.html

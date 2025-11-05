@@ -1,0 +1,1 @@
+ä+ 2pyXhrGtests/migrations/migrations_test_apps/unmigrated_app_syncdb/__init__.py

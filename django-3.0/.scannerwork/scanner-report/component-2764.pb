@@ -1,0 +1,1 @@
+Ì 2pyXíhr*django/core/management/commands/migrate.py

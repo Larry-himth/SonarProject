@@ -1,0 +1,1 @@
+è/ 2webXhrEtests/admin_views/templates/admin/admin_views/article/pagination.html

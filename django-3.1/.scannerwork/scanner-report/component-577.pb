@@ -1,0 +1,1 @@
+Á 2pyX¨hr%django/contrib/staticfiles/finders.py

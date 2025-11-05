@@ -1,0 +1,1 @@
+î 2pyXµhrdjango/apps/registry.py

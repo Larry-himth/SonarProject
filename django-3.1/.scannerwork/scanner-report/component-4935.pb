@@ -1,0 +1,1 @@
+Ç& 2cssXhr:tests/staticfiles_tests/apps/test/static/test/nonascii.css

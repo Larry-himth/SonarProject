@@ -1,0 +1,1 @@
+Ñ 2pyXÆhr1django/core/management/commands/makemigrations.py

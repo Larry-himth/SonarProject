@@ -1,0 +1,1 @@
+Ì 2webX7hrGdjango/contrib/admindocs/templates/admin_doc/template_filter_index.html

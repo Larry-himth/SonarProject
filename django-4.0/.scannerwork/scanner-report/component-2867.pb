@@ -1,0 +1,1 @@
+³ 2pyXƒhr(django/db/backends/sqlite3/operations.py

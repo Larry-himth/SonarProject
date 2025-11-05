@@ -1,0 +1,1 @@
+¦- 2webXhr.tests/templates/views/article_archive_day.html

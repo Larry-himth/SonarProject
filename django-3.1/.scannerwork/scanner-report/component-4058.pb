@@ -1,0 +1,1 @@
+Ú 2pyXºhrscripts/manage_translations.py

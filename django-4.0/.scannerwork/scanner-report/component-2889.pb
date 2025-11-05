@@ -1,0 +1,1 @@
+É 2pyXªhr"django/core/management/__init__.py

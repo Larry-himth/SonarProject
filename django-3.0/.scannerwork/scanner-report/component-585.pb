@@ -1,0 +1,1 @@
+É 2pyXÚhr3django/contrib/gis/db/backends/oracle/operations.py

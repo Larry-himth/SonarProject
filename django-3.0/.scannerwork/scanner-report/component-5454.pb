@@ -1,0 +1,1 @@
+Î* 2webXhr,tests/templates/views/urlarticle_detail.html

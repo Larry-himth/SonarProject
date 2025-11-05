@@ -1,0 +1,1 @@
+ˆ+ 2xmlX	hr*tests/fixtures_regress/fixtures/animal.xml

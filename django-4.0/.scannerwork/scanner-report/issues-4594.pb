@@ -1,0 +1,60 @@
+D
+pythonS4790)Make sure that hashing data is safe here.299  1c
+pythonS100IRename method "setUp" to match the regular expression ^[a-z_][a-z0-9_]*$.2LL f
+pythonS100LRename method "tearDown" to match the regular expression ^[a-z_][a-z0-9_]*$.2SS e
+pythonS2068H"password" detected here, review this potentially hard-coded credential.2
+ãã( 7e
+pythonS2068H"password" detected here, review this potentially hard-coded credential.2
+çç. =e
+pythonS2068H"password" detected here, review this potentially hard-coded credential.2
+ðð e
+pythonS2068H"password" detected here, review this potentially hard-coded credential.2
+ýý, >e
+pythonS2068H"password" detected here, review this potentially hard-coded credential.2
+„„ e
+pythonS2068H"password" detected here, review this potentially hard-coded credential.2
+––7 Fe
+pythonS2068H"password" detected here, review this potentially hard-coded credential.2
+˜˜7 Fe
+pythonS2068H"password" detected here, review this potentially hard-coded credential.2
+³³ e
+pythonS2068H"password" detected here, review this potentially hard-coded credential.2
+¹¹ e
+pythonS2068H"password" detected here, review this potentially hard-coded credential.2
+ÍÍ e
+pythonS2068H"password" detected here, review this potentially hard-coded credential.2
+ÒÒ e
+pythonS2068H"password" detected here, review this potentially hard-coded credential.2
+áá e
+pythonS2068H"password" detected here, review this potentially hard-coded credential.2
+ääD Se
+pythonS2068H"password" detected here, review this potentially hard-coded credential.2
+ïï= Le
+pythonS2068H"password" detected here, review this potentially hard-coded credential.2
+ðð; J
+pythonS1871cEither merge this branch with the identical one on line "383" or change one of the implementations.2
+ :
+ò#
+ÿÿ Original
+pythonS1871cEither merge this branch with the identical one on line "383" or change one of the implementations.2
+ƒƒ :
+ò#
+ÿÿ Originale
+pythonS2068H"password" detected here, review this potentially hard-coded credential.2
+´´8 Ge
+pythonS2068H"password" detected here, review this potentially hard-coded credential.2
+¶¶3 Ue
+pythonS2068H"password" detected here, review this potentially hard-coded credential.2
+ºº7 Fv
+pythonS1186YAdd a nested comment explaining why this method is empty, or complete the implementation.2
+ e
+pythonS2068H"password" detected here, review this potentially hard-coded credential.2
+* 9e
+pythonS2068H"password" detected here, review this potentially hard-coded credential.2
+ËË7 Fe
+pythonS2068H"password" detected here, review this potentially hard-coded credential.2
+ÒÒ7 Fe
+pythonS2068H"password" detected here, review this potentially hard-coded credential.2
+ßß+ :e
+pythonS2068H"password" detected here, review this potentially hard-coded credential.2
+¿¿, >

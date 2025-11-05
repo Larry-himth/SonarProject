@@ -1,0 +1,1 @@
+Ÿ# 2pyXhr&tests/i18n/other/locale/fr/__init__.py

@@ -1,0 +1,1 @@
+µ& 2pyXhr$tests/admin_registration/__init__.py

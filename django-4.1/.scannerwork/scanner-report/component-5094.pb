@@ -1,0 +1,1 @@
+æ' 2pyXhr(tests/staticfiles_tests/urls/__init__.py

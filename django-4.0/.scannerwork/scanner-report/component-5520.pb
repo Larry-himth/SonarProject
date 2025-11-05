@@ -1,0 +1,1 @@
+ê+ 2pyXhr=tests/migrations/migrations_test_apps/lookuperror_b/models.py

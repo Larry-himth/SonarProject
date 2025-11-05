@@ -1,0 +1,1 @@
+’1 2webXhr;tests/template_tests/relative_templates/dir1/dir2/inc1.html

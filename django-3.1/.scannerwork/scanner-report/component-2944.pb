@@ -1,0 +1,1 @@
+€ 2webXhr9django/forms/templates/django/forms/widgets/password.html

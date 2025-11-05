@@ -1,0 +1,1 @@
+¾" 2pyXhr#tests/model_inheritance/__init__.py

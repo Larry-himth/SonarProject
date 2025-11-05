@@ -1,0 +1,1 @@
+³ 2pyXhr django/conf/locale/sk/formats.py

@@ -1,0 +1,2 @@
+W
+pythonS5720<Rename "name" to "self" or add the missing "self" parameter.2ZZ "

@@ -1,0 +1,1 @@
+Ÿ/ 2pyXĞhr/tests/template_tests/syntax_tests/test_basic.py

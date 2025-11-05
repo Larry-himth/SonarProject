@@ -1,0 +1,1 @@
+š% 2pyXhr(tests/staticfiles_tests/apps/__init__.py

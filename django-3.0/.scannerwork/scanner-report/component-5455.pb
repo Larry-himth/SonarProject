@@ -1,0 +1,1 @@
+Ï* 2webXhr4tests/templates/views/datearticle_archive_month.html

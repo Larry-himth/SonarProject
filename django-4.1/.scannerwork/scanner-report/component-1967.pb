@@ -1,0 +1,1 @@
+¯ 2webX)hr2django/contrib/admin/templates/admin/app_list.html

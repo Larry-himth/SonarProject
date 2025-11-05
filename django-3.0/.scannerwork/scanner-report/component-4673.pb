@@ -1,0 +1,1 @@
+Á$ 2pyXhr.tests/proxy_model_inheritance/app1/__init__.py

@@ -1,0 +1,1 @@
+ö- 2pyXshr"tests/contenttypes_tests/models.py

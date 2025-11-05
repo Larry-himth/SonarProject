@@ -1,0 +1,1 @@
+æ( 2pyXhrRtests/migrations/migrations_test_apps/alter_fk/book_app/migrations/0001_initial.py

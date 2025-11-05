@@ -1,0 +1,1 @@
+¾. 2webXhr0tests/admin_views/templates/admin/base_site.html

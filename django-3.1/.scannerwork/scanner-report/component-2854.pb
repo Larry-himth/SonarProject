@@ -1,0 +1,1 @@
+¦ 2pyXßhr+django/core/management/commands/loaddata.py

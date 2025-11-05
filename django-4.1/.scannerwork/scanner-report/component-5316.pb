@@ -1,0 +1,1 @@
+Ä) 2pyX”hr!tests/admin_registration/tests.py

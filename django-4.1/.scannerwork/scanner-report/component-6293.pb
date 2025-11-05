@@ -1,0 +1,1 @@
+•1 2pyX½hr8tests/template_tests/syntax_tests/i18n/test_translate.py

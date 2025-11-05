@@ -1,0 +1,1 @@
+”$ 2pyXhr.tests/user_commands/management/commands/hal.py

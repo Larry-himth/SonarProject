@@ -1,0 +1,1 @@
+­ 2webXhr=django/contrib/admin/templates/admin/edit_inline/stacked.html

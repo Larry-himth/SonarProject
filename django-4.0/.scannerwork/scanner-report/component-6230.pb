@@ -1,0 +1,1 @@
+Ö0 2pyXÛhr=tests/template_tests/syntax_tests/i18n/test_blocktranslate.py

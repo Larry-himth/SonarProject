@@ -1,0 +1,1 @@
+Ú 2pyXÍhrdjango/http/response.py

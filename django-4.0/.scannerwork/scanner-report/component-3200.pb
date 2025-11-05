@@ -1,0 +1,1 @@
+€ 2pyXêhrdjango/conf/locale/__init__.py

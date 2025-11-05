@@ -1,0 +1,1 @@
+Ã& 2pyXhr-tests/staticfiles_tests/apps/test/__init__.py

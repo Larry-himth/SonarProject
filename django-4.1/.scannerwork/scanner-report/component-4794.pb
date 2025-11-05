@@ -1,0 +1,1 @@
+º% 2xmlXhr?tests/sitemaps_tests/templates/custom_sitemap_lastmod_index.xml

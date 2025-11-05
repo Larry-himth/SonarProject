@@ -1,0 +1,1 @@
+- 2webXhrFtests/admin_views/templates/admin/admin_views/article/submit_line.html

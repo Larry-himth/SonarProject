@@ -1,0 +1,1 @@
+≥ 2pyXùhr$django/db/backends/sqlite3/schema.py

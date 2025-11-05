@@ -1,0 +1,1 @@
+½ 2pyX0hr django/conf/locale/sl/formats.py

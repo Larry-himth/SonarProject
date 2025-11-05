@@ -1,0 +1,1 @@
+ˆ0 2pyXhr.tests/apps/two_configs_one_default_app/apps.py

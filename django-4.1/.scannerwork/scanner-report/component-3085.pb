@@ -1,0 +1,1 @@
+ç 2pyXúhrdjango/shortcuts.py

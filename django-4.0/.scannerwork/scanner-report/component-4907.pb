@@ -1,0 +1,1 @@
+«& 2webXhr.tests/i18n/project_dir/app_no_locale/test.html

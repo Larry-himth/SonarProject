@@ -1,0 +1,1 @@
+¼- 2pyX'hr3tests/template_tests/syntax_tests/test_spaceless.py

@@ -1,0 +1,1 @@
+Ò% 2pyXhrtests/i18n/loading_app/apps.py

@@ -1,0 +1,1 @@
+˜% 2pyXýhr!tests/queries/test_bulk_update.py

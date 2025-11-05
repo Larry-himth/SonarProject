@@ -1,0 +1,1 @@
+›3 2pyXhrtests/admin_custom_urls/urls.py

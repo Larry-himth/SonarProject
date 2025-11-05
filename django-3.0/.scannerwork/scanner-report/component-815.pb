@@ -1,0 +1,1 @@
+¯ 2pyX³hr"django/contrib/gis/geos/polygon.py

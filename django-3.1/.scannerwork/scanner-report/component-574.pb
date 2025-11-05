@@ -1,0 +1,1 @@
+¾ 2pyXºhr%django/contrib/staticfiles/storage.py

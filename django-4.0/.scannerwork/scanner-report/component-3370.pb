@@ -1,0 +1,1 @@
+ª 2pyXhr django/conf/locale/kn/formats.py

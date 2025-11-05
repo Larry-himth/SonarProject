@@ -1,0 +1,1 @@
+‘/ 2webX	hr9tests/forms_tests/templates/forms_tests/article_form.html

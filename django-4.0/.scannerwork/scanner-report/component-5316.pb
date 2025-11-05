@@ -1,0 +1,1 @@
+Ä) 2webXhr7tests/generic_views/templates/generic_views/detail.html

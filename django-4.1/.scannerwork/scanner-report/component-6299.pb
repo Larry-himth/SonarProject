@@ -1,0 +1,1 @@
+›1 2pyXîhr=tests/template_tests/syntax_tests/i18n/test_blocktranslate.py

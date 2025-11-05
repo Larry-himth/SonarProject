@@ -1,0 +1,1 @@
+Ã 2pyXªhrdjango/core/management/base.py

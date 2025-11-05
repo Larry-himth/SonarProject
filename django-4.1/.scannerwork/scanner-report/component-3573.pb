@@ -1,0 +1,1 @@
+õ 2pyXµhrdjango/views/generic/detail.py

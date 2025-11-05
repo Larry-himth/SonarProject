@@ -1,0 +1,1 @@
+Ø 2pyX”hr1django/core/management/commands/makemigrations.py

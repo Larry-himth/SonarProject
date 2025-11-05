@@ -1,0 +1,1 @@
+æ# 2webXhrAtests/auth_tests/templates/registration/password_change_form.html

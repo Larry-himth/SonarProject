@@ -1,0 +1,1 @@
+Ò+ 2webX'hrNtests/admin_views/templates/admin/admin_views/article/change_list_results.html

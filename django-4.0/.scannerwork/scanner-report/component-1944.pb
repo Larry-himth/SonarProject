@@ -1,0 +1,1 @@
+˜ 2webX*hrGdjango/contrib/admin/templates/registration/password_reset_confirm.html

@@ -1,0 +1,1 @@
+É+ 2pyXhrItests/migrations/migrations_test_apps/migrated_app/migrations/__init__.py

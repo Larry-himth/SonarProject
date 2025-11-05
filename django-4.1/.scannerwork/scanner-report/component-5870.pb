@@ -1,0 +1,1 @@
+î- 2webXhr0tests/templates/views/article_archive_month.html

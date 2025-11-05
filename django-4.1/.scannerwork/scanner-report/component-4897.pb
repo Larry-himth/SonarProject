@@ -1,0 +1,1 @@
+¡& 2webXhr(tests/i18n/commands/templates/empty.html

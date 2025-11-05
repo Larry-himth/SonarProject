@@ -1,0 +1,1 @@
+Ê 2pyX—hr/django/core/management/commands/makemessages.py

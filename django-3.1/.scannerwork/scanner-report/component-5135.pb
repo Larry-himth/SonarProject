@@ -1,0 +1,1 @@
+( 2pyX½hr"tests/generic_views/test_detail.py

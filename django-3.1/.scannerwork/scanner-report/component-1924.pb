@@ -1,0 +1,1 @@
+„ 2webXEhr/django/contrib/admin/templates/admin/login.html

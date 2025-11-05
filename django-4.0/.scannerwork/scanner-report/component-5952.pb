@@ -1,0 +1,1 @@
+À. 2webXhrStests/admin_views/templates/admin/admin_views/article/change_list_object_tools.html

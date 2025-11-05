@@ -1,0 +1,1 @@
+æ 2pyX8hr'django/db/backends/postgresql/client.py

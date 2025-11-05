@@ -1,0 +1,1 @@
+Þ) 2pyXhr<tests/migrations/migrations_test_apps/migrated_app/models.py

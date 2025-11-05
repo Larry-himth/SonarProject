@@ -1,0 +1,1 @@
+Ÿ 2webXåhr)django/views/templates/technical_500.html

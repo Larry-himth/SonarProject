@@ -1,0 +1,1 @@
+ÿ  2pyX;hr%tests/absolute_url_overrides/tests.py

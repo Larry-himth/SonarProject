@@ -1,0 +1,1 @@
+Ð 2pyXhr1django/contrib/staticfiles/management/__init__.py

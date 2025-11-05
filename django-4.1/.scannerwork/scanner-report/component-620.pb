@@ -1,0 +1,1 @@
+ì 2pyXPhr1django/contrib/gis/db/backends/spatialite/base.py

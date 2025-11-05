@@ -1,0 +1,1 @@
+É 2pyX]hr django/contrib/sitemaps/views.py

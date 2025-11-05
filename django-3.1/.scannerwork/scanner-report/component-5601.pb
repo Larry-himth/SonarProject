@@ -1,0 +1,1 @@
+á+ 2pyX-hr'tests/project_template/test_settings.py

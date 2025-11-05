@@ -1,0 +1,1 @@
+›* 2pyXhr;tests/migrations/test_migrations_squashed_extra/__init__.py

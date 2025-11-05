@@ -1,0 +1,1 @@
+ì 2pyXhr!django/conf/locale/sq/__init__.py

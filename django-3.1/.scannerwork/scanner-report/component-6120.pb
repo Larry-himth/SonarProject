@@ -1,0 +1,1 @@
+è/ 2pyXhr7tests/template_tests/filter_tests/test_truncatechars.py

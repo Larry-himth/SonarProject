@@ -1,0 +1,1 @@
+Í# 2webXhr.tests/i18n/commands/static/static_ignored.html

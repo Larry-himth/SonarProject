@@ -1,0 +1,1 @@
+“- 2webXhrBtests/admin_views/templates/admin/admin_views/article/actions.html

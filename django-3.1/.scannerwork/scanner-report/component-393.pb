@@ -1,0 +1,1 @@
+‰ 2pyX_hrLdjango/contrib/contenttypes/management/commands/remove_stale_contenttypes.py

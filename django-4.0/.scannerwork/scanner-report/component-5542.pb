@@ -1,0 +1,1 @@
+¦+ 2pyXhrCtests/migrations/migrations_test_apps/without_init_file/__init__.py

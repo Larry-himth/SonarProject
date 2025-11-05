@@ -1,0 +1,1 @@
+ù# 2webXhr0tests/view_tests/templates/my_technical_500.html

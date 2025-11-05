@@ -1,0 +1,1 @@
+â$ 2webXhr.tests/i18n/commands/templates/xxx_ignored.html

@@ -1,0 +1,1 @@
+½* 2pyXhrEtests/migrations/test_migrations_squashed_ref_squashed/app2/1_auto.py

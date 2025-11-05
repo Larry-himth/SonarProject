@@ -1,0 +1,1 @@
+™ 2webX5hr=django/contrib/admin/templates/admin/delete_confirmation.html

@@ -1,0 +1,1 @@
+ì 2pyXÏhr'django/db/backends/postgresql/schema.py

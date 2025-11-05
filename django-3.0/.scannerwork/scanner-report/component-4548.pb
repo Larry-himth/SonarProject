@@ -1,0 +1,1 @@
+Ä# 2jsXhr0tests/i18n/commands/someapp/static/javascript.js

@@ -1,0 +1,1 @@
+Ñ0 2webXhr:tests/forms_tests/templates/forms_tests/custom_widget.html

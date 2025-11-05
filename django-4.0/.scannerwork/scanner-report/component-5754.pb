@@ -1,0 +1,1 @@
+ú, 2pyX—hr#tests/postgres_tests/test_hstore.py

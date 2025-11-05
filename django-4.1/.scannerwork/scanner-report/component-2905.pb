@@ -1,0 +1,1 @@
+Ù 2pyXñhr/django/core/management/commands/makemessages.py

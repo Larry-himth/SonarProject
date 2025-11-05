@@ -1,0 +1,1 @@
+È& 2pyX	hr;tests/user_commands/management/commands/no_system_checks.py

@@ -1,0 +1,1 @@
+• 2pyXRhr9django/contrib/auth/management/commands/changepassword.py

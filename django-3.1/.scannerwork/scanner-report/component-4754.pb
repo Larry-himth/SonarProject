@@ -1,0 +1,1 @@
+’% 2pyXhr0tests/i18n/project_dir/app_with_locale/models.py

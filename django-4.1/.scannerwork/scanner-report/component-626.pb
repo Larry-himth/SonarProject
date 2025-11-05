@@ -1,0 +1,1 @@
+ò 2pyXhr.django/contrib/gis/db/backends/base/adapter.py

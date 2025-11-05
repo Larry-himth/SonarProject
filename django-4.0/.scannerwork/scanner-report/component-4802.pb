@@ -1,0 +1,1 @@
+Â% 2pyXphrtests/inspectdb/models.py

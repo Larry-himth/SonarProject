@@ -1,0 +1,1 @@
+Ø 2pyXÇhr%django/contrib/staticfiles/finders.py

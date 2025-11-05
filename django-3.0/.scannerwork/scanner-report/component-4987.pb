@@ -1,0 +1,1 @@
+û& 2webXhrFtests/generic_views/templates/generic_views/author_confirm_delete.html

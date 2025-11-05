@@ -1,0 +1,1 @@
+ý* 2xmlXhr1tests/fixtures_regress/fixtures/non_natural_2.xml

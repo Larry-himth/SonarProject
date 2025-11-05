@@ -1,0 +1,1 @@
+Ä% 2pyXÒhrtests/inspectdb/tests.py

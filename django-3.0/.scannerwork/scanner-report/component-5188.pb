@@ -1,0 +1,1 @@
+Ä( 2pyXhr8tests/migrations/migrations_test_apps/normal/__init__.py

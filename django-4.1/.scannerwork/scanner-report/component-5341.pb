@@ -1,0 +1,1 @@
+Ý) 2pyXPhrtests/queryset_pickle/models.py

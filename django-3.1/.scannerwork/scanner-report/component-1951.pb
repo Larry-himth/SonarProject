@@ -1,0 +1,1 @@
+Ÿ 2webX=hrCdjango/contrib/admin/templates/admin/auth/user/change_password.html

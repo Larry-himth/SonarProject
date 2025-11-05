@@ -1,0 +1,1 @@
+º& 2pyX‹hr tests/staticfiles_tests/cases.py

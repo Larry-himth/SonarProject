@@ -1,0 +1,1 @@
+ï- 2webXhr1tests/templates/views/article_confirm_delete.html

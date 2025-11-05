@@ -1,0 +1,1 @@
+ÿ, 2pyX	hrtests/admin_views/admin.py

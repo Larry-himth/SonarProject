@@ -1,0 +1,1 @@
+¢% 2pyXhr2tests/i18n/sampleproject/sampleproject/settings.py

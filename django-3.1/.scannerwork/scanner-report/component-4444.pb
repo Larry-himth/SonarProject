@@ -1,0 +1,1 @@
+Ü" 2webXhr@tests/auth_tests/templates/registration/password_reset_form.html

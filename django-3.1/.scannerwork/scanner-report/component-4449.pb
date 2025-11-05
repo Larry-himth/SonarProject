@@ -1,0 +1,1 @@
+á" 2webXhrCtests/auth_tests/templates/context_processors/auth_attrs_perms.html

@@ -1,0 +1,1 @@
+Ñ& 2pyX‘hrtests/queryset_pickle/tests.py

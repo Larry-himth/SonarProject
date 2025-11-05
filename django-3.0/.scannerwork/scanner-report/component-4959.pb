@@ -1,0 +1,1 @@
+ß& 2pyXhrtests/generic_views/__init__.py

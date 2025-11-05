@@ -1,0 +1,1 @@
+«$ 2pyXhrCtests/check_framework/urls/path_compatibility/ending_with_dollar.py

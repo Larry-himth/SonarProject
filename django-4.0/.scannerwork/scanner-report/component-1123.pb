@@ -1,0 +1,1 @@
+ã 2webX5hr=django/contrib/admindocs/templates/admin_doc/model_index.html

@@ -1,0 +1,1 @@
+©* 2webXhr:tests/template_loader/templates/template_loader/hello.html

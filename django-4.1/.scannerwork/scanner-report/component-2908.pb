@@ -1,0 +1,1 @@
+Ü 2pyXThr-django/core/management/commands/sqlmigrate.py

@@ -1,0 +1,1 @@
+è 2pyXŒhr(django/core/management/commands/shell.py

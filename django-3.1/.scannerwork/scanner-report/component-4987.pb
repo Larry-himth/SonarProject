@@ -1,0 +1,2 @@
+û& 2pyX
+hr3tests/utils_tests/test_module/another_bad_module.py

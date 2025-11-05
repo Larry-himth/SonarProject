@@ -1,0 +1,1 @@
+Ð 2pyXhr1django/contrib/flatpages/templatetags/__init__.py

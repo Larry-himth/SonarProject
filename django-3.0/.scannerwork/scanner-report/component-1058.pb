@@ -1,0 +1,1 @@
+¢ 2webXhr>django/contrib/admindocs/templates/admin_doc/bookmarklets.html

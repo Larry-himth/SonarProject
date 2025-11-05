@@ -1,0 +1,1 @@
+°' 2pyX6hr&tests/proxy_model_inheritance/tests.py

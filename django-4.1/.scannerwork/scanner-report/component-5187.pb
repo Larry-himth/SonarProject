@@ -1,0 +1,1 @@
+Ã( 2pyXhr"tests/flatpages_tests/test_csrf.py

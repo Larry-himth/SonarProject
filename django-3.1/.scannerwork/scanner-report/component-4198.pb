@@ -1,0 +1,1 @@
+æ  2pyX#hr!tests/gis_tests/geogapp/models.py

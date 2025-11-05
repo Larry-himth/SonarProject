@@ -1,0 +1,1 @@
+æ 2pyX1hr*django/core/management/commands/dbshell.py

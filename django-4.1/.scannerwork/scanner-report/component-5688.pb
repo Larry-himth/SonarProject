@@ -1,0 +1,1 @@
+¸, 2pyXhrHtests/migrations/test_migrations_squashed_complex_multi_apps/__init__.py

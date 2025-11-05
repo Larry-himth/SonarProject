@@ -1,0 +1,1 @@
+Ð- 2pyX1hr'tests/project_template/test_settings.py

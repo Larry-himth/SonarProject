@@ -1,0 +1,1 @@
+’% 2pyXshr'tests/staticfiles_tests/test_finders.py

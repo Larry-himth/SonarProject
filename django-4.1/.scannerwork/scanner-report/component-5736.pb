@@ -1,0 +1,1 @@
+è, 2pyX#hr;tests/migrations/test_migrations_non_atomic/0001_initial.py

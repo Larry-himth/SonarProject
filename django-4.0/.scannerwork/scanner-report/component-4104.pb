@@ -1,0 +1,1 @@
+ˆ  2webXhr"docs/_theme/djangodocs/search.html

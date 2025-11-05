@@ -1,0 +1,1 @@
+§& 2pyXhr"tests/i18n/project_dir/__init__.py

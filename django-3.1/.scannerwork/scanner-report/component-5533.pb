@@ -1,0 +1,1 @@
++ 2pyXhr tests/delete_regress/__init__.py

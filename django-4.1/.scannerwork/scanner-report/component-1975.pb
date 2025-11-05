@@ -1,0 +1,1 @@
+· 2webXhr5django/contrib/admin/templates/admin/widgets/url.html

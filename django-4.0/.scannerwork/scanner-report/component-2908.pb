@@ -1,0 +1,1 @@
+Ü 2pyXlhr3django/core/management/commands/createcachetable.py

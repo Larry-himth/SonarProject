@@ -1,0 +1,1 @@
+í 2pyXShr:django/contrib/gis/db/backends/spatialite/introspection.py

@@ -1,0 +1,1 @@
+¼ 2pyX©hr,django/core/management/commands/inspectdb.py

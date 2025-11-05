@@ -1,0 +1,1 @@
+§- 2pyXhrMtests/admin_scripts/custom_templates/project_template/additional_dir/extra.py

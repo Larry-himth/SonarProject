@@ -1,0 +1,1 @@
+Ó& 2pyXhr"tests/generic_inline_admin/urls.py

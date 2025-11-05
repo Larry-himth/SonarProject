@@ -1,0 +1,1 @@
+Î 2pyX	hr django/contrib/redirects/apps.py

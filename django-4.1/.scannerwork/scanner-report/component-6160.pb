@@ -1,0 +1,1 @@
+ê0 2pyXhr$tests/apps/no_config_app/__init__.py

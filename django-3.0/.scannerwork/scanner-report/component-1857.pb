@@ -1,0 +1,1 @@
+Á 2webX'hr=django/contrib/admin/templates/admin/change_list_results.html

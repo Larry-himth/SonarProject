@@ -1,0 +1,1 @@
+¢1 2pyXQhr4tests/template_tests/syntax_tests/test_list_index.py

@@ -1,0 +1,1 @@
+®$ 2pyXhr=tests/check_framework/urls/bad_error_handlers_invalid_path.py

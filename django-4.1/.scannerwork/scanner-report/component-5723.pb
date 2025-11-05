@@ -1,0 +1,1 @@
+Û, 2pyX	hr=tests/migrations/test_migrations_squashed_erroneous/7_auto.py

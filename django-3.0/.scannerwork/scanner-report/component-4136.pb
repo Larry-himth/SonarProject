@@ -1,0 +1,1 @@
+¨  2pyXâhr4tests/model_inheritance/test_abstract_inheritance.py

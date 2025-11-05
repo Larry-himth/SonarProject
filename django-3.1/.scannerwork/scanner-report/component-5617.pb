@@ -1,0 +1,1 @@
+ñ+ 2webXhr-tests/templates/custom_admin/change_list.html

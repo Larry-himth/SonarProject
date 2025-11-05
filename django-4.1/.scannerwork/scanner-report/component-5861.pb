@@ -1,0 +1,1 @@
+å- 2webXhr+tests/templates/custom_admin/app_index.html

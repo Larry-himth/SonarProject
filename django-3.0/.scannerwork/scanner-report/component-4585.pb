@@ -1,0 +1,1 @@
+é# 2pyXˆhrtests/i18n/patterns/tests.py

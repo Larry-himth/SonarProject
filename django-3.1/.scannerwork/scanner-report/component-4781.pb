@@ -1,0 +1,1 @@
+­% 2pyXhr+tests/requests/test_is_ajax_deprecations.py

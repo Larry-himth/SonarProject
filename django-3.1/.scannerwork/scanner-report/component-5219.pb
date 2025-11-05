@@ -1,0 +1,1 @@
+ã( 2pyXhr"tests/managers_regress/__init__.py

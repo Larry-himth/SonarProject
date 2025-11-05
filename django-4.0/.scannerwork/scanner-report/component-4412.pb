@@ -1,0 +1,1 @@
+¼" 2pyX§hr4tests/model_inheritance/test_abstract_inheritance.py

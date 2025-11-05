@@ -1,0 +1,1 @@
+ó) 2pyXhrStests/migrations/migrations_test_apps/conflicting_app_with_dependencies/__init__.py

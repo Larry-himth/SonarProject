@@ -1,0 +1,1 @@
+è- 2webXhr*tests/templates/custom_admin/add_form.html

@@ -1,0 +1,1 @@
+ò# 2pyXhr2tests/i18n/project_dir/app_with_locale/__init__.py

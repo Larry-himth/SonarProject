@@ -1,0 +1,1 @@
+î$ 2pyXhr#tests/staticfiles_tests/__init__.py

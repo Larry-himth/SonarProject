@@ -1,0 +1,1 @@
+ù2 2pyXhr4tests/urlpatterns_reverse/included_namespace_urls.py

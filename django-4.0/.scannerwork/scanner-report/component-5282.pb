@@ -1,0 +1,1 @@
+¢) 2pyXhr!tests/queryset_pickle/__init__.py

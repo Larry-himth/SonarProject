@@ -1,0 +1,1 @@
+´1 2pyXhr<tests/urlpatterns_reverse/translations/locale/de/__init__.py

@@ -1,0 +1,1 @@
+–1 2pyX=hr7tests/urlpatterns_reverse/test_localeregexdescriptor.py

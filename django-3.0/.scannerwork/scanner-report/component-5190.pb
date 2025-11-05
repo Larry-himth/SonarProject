@@ -1,0 +1,1 @@
+Æ( 2pyXhratests/migrations/migrations_test_apps/conflicting_app_with_dependencies/migrations/0002_second.py

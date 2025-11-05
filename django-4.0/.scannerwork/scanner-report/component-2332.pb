@@ -1,0 +1,1 @@
+œ 2pyXhr*django/contrib/auth/migrations/__init__.py

@@ -1,0 +1,1 @@
+¤# 2pyXnhr#tests/view_tests/tests/test_csrf.py

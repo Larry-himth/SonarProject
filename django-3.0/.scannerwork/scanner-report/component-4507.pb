@@ -1,0 +1,1 @@
+›# 2pyXShrtests/inspectdb/models.py

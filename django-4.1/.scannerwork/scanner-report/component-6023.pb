@@ -1,0 +1,1 @@
+‡/ 2pyXQhr tests/admin_views/customadmin.py

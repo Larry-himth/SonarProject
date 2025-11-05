@@ -1,0 +1,1 @@
+Ó) 2pyXÖhrtests/generic_views/views.py

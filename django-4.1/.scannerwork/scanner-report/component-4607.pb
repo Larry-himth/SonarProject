@@ -1,0 +1,1 @@
+ÿ# 2webXhr2tests/auth_tests/templates/registration/login.html

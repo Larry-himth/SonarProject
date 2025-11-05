@@ -1,0 +1,1 @@
+¬! 2pyXhr0tests/auth_tests/models/with_integer_username.py

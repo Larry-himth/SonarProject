@@ -1,0 +1,1 @@
+ã 2pyX0hr0django/contrib/gis/geos/prototypes/predicates.py

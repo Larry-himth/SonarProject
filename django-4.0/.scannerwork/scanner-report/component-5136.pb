@@ -1,0 +1,1 @@
+( 2pyXhr!tests/flatpages_tests/settings.py

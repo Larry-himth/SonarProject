@@ -1,0 +1,1 @@
+¡ 2pyXÇhrdjango/views/generic/list.py

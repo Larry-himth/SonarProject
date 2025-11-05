@@ -1,0 +1,1 @@
+™ 2pyX(hrGdjango/contrib/contenttypes/migrations/0002_remove_content_type_name.py

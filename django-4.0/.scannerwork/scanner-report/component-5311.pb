@@ -1,0 +1,1 @@
+¿) 2webXhrAtests/generic_views/templates/generic_views/book_archive_day.html

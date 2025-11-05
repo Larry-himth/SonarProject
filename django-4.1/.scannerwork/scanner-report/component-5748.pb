@@ -1,0 +1,1 @@
+ô, 2webXhr4tests/shortcuts/templates/shortcuts/render_test.html
